@@ -1,0 +1,16 @@
+
+
+
+{
+  "url": "https://gateway.watsonplatform.net/language-translator/api",
+  "username": "0a1ec0ad-b7d8-4b8c-a6cc-d368be0c96ac",
+  "password": "I6lRukwzjTo4"
+}
+
+
+
+{
+  "url": "https://gateway.watsonplatform.net/tone-analyzer/api",
+  "username": "59216ccf-c999-4456-bba0-077f2f184881",
+  "password": "LVuaoJC3pLPs"
+}
